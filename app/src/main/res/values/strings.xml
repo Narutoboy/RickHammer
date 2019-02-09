@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rick Hammer</string>
+    <string-array name="wood_type">
+        <item>Mahogany</item>
+        <item>Oak</item>
+        <item>Pine</item>
+
+
+    </string-array>
+</resources>
